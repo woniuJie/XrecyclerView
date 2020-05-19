@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- footer提示文字 -->
+    <string name="xrv_footer_loading">正在加载中~ (/▽＼)</string>
+    <string name="xrv_footer_nomore">亲，木有更多了~ (/▽＼)</string>
+</resources>
